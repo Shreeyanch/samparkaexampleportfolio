@@ -1,22 +1,24 @@
-<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="avatarTitle">
+  <title id="avatarTitle">Professional female profile avatar</title>
   <rect width="300" height="300" rx="58" fill="#2B2B2C"/>
-  <circle cx="150" cy="136" r="84" fill="#19191A"/>
-  <path d="M80 144C80 91 110 54 151 54C194 54 221 92 221 145V178C221 215 190 240 150 240C110 240 80 215 80 178V144Z" fill="#342017"/>
-  <path d="M96 149C96 112 118 86 150 86C182 86 204 112 204 149V174C204 205 181 226 150 226C119 226 96 205 96 174V149Z" fill="#F2B88F"/>
-  <path d="M101 136C104 105 123 83 151 83C181 83 198 105 201 136C177 130 155 118 137 96C129 116 117 130 101 136Z" fill="#3B2418"/>
-  <path d="M88 161C78 159 72 168 76 181C80 193 90 197 97 190L88 161Z" fill="#E7A87E"/>
-  <path d="M212 161C222 159 228 168 224 181C220 193 210 197 203 190L212 161Z" fill="#E7A87E"/>
-  <path d="M120 159C126 153 137 153 143 159" stroke="#2A1B16" stroke-width="7" stroke-linecap="round"/>
-  <path d="M158 159C164 153 175 153 181 159" stroke="#2A1B16" stroke-width="7" stroke-linecap="round"/>
-  <circle cx="132" cy="168" r="6" fill="#201713"/>
-  <circle cx="169" cy="168" r="6" fill="#201713"/>
-  <path d="M150 169C145 181 143 188 151 190" stroke="#C98766" stroke-width="5" stroke-linecap="round"/>
-  <path d="M130 199C141 209 160 209 171 199" stroke="#8E3D48" stroke-width="7" stroke-linecap="round"/>
-  <path d="M115 144C126 136 139 136 148 143" stroke="#3B2418" stroke-width="6" stroke-linecap="round"/>
-  <path d="M154 143C164 136 177 136 187 144" stroke="#3B2418" stroke-width="6" stroke-linecap="round"/>
-  <path d="M95 199C106 227 127 243 150 243C173 243 194 227 205 199C190 219 172 229 150 229C128 229 110 219 95 199Z" fill="#342017"/>
-  <path d="M106 251C116 233 132 224 150 224C168 224 184 233 194 251C180 260 165 265 150 265C135 265 120 260 106 251Z" fill="#8F556A"/>
-  <path d="M130 225C136 231 143 234 150 234C157 234 164 231 170 225V242C160 249 140 249 130 242V225Z" fill="#E7A87E"/>
-  <circle cx="94" cy="174" r="7" fill="#F3C86C"/>
-  <circle cx="206" cy="174" r="7" fill="#F3C86C"/>
+  <circle cx="150" cy="132" r="78" fill="#343437"/>
+  <path d="M83 250C94 215 119 195 150 195C181 195 206 215 217 250C199 260 176 266 150 266C124 266 101 260 83 250Z" fill="#8D6677"/>
+  <path d="M123 187C129 198 138 204 150 204C162 204 171 198 177 187V219C166 229 134 229 123 219V187Z" fill="#D8A17D"/>
+  <path d="M96 129C96 88 118 61 150 61C182 61 204 88 204 129V158C204 193 182 217 150 217C118 217 96 193 96 158V129Z" fill="#E8B08A"/>
+  <path d="M93 145C83 143 77 151 80 164C83 177 92 181 99 174L93 145Z" fill="#D49A76"/>
+  <path d="M207 145C217 143 223 151 220 164C217 177 208 181 201 174L207 145Z" fill="#D49A76"/>
+  <path d="M105 137C111 131 124 130 134 135" stroke="#2A2424" stroke-width="6" stroke-linecap="round"/>
+  <path d="M166 135C176 130 189 131 195 137" stroke="#2A2424" stroke-width="6" stroke-linecap="round"/>
+  <path d="M133 171C142 178 158 178 167 171" stroke="#995969" stroke-width="7" stroke-linecap="round"/>
+  <path d="M150 138C145 153 143 161 151 164" stroke="#C18464" stroke-width="5" stroke-linecap="round"/>
+  <path d="M89 149C86 95 110 48 151 48C194 48 216 96 211 149C199 132 195 110 190 90C179 109 156 121 126 122C115 122 105 126 98 137C96 141 93 145 89 149Z" fill="#2C2421"/>
+  <path d="M98 202C111 222 128 233 150 233C172 233 189 222 202 202C190 243 110 243 98 202Z" fill="#2C2421"/>
+  <path d="M83 250C94 215 119 195 150 195C181 195 206 215 217 250C199 260 176 266 150 266C124 266 101 260 83 250Z" fill="url(#paint0_linear)"/>
+  <path d="M105 236C117 224 132 218 150 218C168 218 183 224 195 236" stroke="#F4C76F" stroke-width="5" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="83" y1="195" x2="217" y2="266" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#705568"/>
+      <stop offset="1" stop-color="#3C4155"/>
+    </linearGradient>
+  </defs>
 </svg>
