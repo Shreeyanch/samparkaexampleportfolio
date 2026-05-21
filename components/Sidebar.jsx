@@ -34,7 +34,7 @@ export default function Sidebar() {
     <aside className={`sidebar ${isOpen ? "active" : ""}`} aria-label="Profile sidebar">
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <img src="/assets/images/my-avatar.png" alt="Sweta Thapa" width="80" />
+          <img src="/assets/images/avatar-female.svg" alt="Sweta Thapa" width="80" />
         </figure>
 
         <div className="info-content">
